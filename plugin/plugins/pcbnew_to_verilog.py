@@ -1,7 +1,6 @@
 import itertools
 import math
 from kiutils.schematic import Schematic
-import networkx as nx
 import pcbnew
 
 class Extractor:
